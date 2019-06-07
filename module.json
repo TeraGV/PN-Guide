@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "PN-Guide",
+    "options": {
+        "niceName": "PN-Guide",
+        "guiName": "PN-Guide",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "TeraGV",
+    "description": "test to guide",
+    "servers": ["https://raw.githubusercontent.com/TeraGV/PN-Guide/master/"],
+    "version": "82.05"
+}

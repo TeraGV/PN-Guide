@@ -1,0 +1,20 @@
+{
+    "files": {
+        "README.md": "81151b388f2c3b0317b91beb21dc642d8ca7951c7619ee12abd475e6ad2d62cb",
+        "index.js": "15ef8fe7922b348034e4708bf78f8f957ae00ab13f7cfd806502633076867d19",
+        "module.json": "fbf7b300eac44c102adcb9022c0b0564a77965f071b45305c64db31094269741",
+        "settings_migrator.js": "9547d3e46b7f60b9138d40f873261d76d484c297d07cccb0d3bc3922d5f9a073"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": 2,
+        "S_DESPAWN_BUILD_OBJECT": 2,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_SPAWN_BUILD_OBJECT": 2,
+        "S_SPAWN_COLLECTION": 4,
+        "S_SPAWN_DROPITEM": 7
+    }
+}
