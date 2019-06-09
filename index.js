@@ -128,6 +128,7 @@ const ThirdBossActions = {
 
         398: {msg: '398'},	
         399: {msg: '399'}
+};
 }
 	
 	// 定义变量
