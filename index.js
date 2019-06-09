@@ -128,7 +128,6 @@ const ThirdBossActions = {
 
         398: {msg: '398'},	
         399: {msg: '399'}
-};
 }
 	
 	// 定义变量
@@ -422,13 +421,13 @@ const ThirdBossActions = {
 		// 龙头光柱
 		curLocation.z = curLocation.z - 1000;
 		mod.send('S_SPAWN_DROPITEM', 7, {
-			gameuid2,
+			gameId: uid2,
 			item: 98260, // 98260-古龙贝勒古斯的头
 			loc: curLocation,
 			amount: 1,
 			expiry: 600000,
 			owners: [{
-				0
+				id: 0
 			}]
 		});
 		curLocation.z = curLocation.z + 1000;
@@ -444,7 +443,7 @@ const ThirdBossActions = {
 			unk : 0
 		});
 		mod.send('S_DESPAWN_DROPITEM', 4, {
-			gameuid_arg2
+			gameId: uid_arg2
 		});
 	}
 	//地面提示(花朵)
