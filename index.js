@@ -124,7 +124,6 @@ const SecondBossActions = {
 //        234: {msg: '234 вторая фаза дебафа'},
         235: {msg: 'Дебаф!'}
 };
-};
 const ThirdBossActions = {	
 
         398: {msg: '398'},	
