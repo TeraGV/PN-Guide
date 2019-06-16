@@ -4,7 +4,7 @@
         "config.json": "860792922cc5d04b4855e7c0b41cd2de85c012fdf939d7792a20e58b8495a14a",
         "index.js": "15ef8fe7922b348034e4708bf78f8f957ae00ab13f7cfd806502633076867d19",
         "module.json": "fbf7b300eac44c102adcb9022c0b0564a77965f071b45305c64db31094269741",
-        "settings_migrator.js": "a5a2c0fb46e0f09ef8319f6ec109122e1aa0e982e2cbed8ca6a714fa39775130"
+        "settings_migrator.js": "7efdb4074560ba8c1f7277c50335d4a5b881d7b2a3d468ab6d40cd2aa2fa444b"
     },
     "defs": {
         "C_CHAT": 1,
