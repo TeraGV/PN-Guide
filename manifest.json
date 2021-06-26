@@ -2,7 +2,7 @@
     "files": {
         "README.md": "81151b388f2c3b0317b91beb21dc642d8ca7951c7619ee12abd475e6ad2d62cb",
         "config.json": "5857803496e6a8b2f8d65a33c00b1a095a5ce2e42ee5cd4710c0cb5676ad6621",
-        "index.js": "15ef8fe7922b348034e4708bf78f8f957ae00ab13f7cfd806502633076867d19",
+        "index.js": "3a308da42bc71fe395df1bf906d240b4624aaef5ea7d89459d1934f7e1fd2911",
         "module.json": "fbf7b300eac44c102adcb9022c0b0564a77965f071b45305c64db31094269741",
         "settings_migrator.js": "b019aad5d3f5346b72f8a7fca4f224bdfeebb4ed5df9f84c3a132ccc3c19e6fb"
     },
@@ -10,7 +10,7 @@
         "C_CHAT": 1,
         "S_ACTION_STAGE": 9,
         "S_BOSS_GAGE_INFO": 3,
-        "S_CHAT": 2,
+        "S_CHAT": 3,
         "S_DESPAWN_BUILD_OBJECT": 2,
         "S_DESPAWN_COLLECTION": 2,
         "S_DESPAWN_DROPITEM": 4,

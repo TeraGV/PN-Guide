@@ -282,7 +282,7 @@ module.exports = function PNGuide(mod) {
 		} else if (mod.settings.sendToStream) {
 			command.message(msg);
 		} else {
-			mod.send('S_CHAT', 2, {
+			mod.send('S_CHAT', 3, {
 				channel: 21, //21 = 队长通知, 1 = 组队, 2 = 公会, 25 = 团长通知
 				authorName: "Гнездо",
 				message: msg
